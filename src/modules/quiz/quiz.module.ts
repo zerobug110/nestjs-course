@@ -10,3 +10,4 @@ import { QuizService } from './quiz.service';
 export class QuizModule {
 
 }
+  
